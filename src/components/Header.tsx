@@ -8,9 +8,9 @@ const Header = () => {
         <Title>הצנחנים 14</Title>
       </TitleContainer>
       {screenWidth > 768 ? (
-        <PersonalAreaIcon src="src/assets/img/user.png" />
+        <PersonalAreaIcon src="public/assets/img/user.png" />
       ) : (
-        <MobileMenu src="src/assets/img/menu-bar.png" />
+        <MobileMenu src="public/assets/img/menu-bar.png" />
       )}
     </Container>
   );
