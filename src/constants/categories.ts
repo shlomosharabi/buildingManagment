@@ -5,7 +5,19 @@ export const CATEGORIES = [
     icon: "src/assets/img/bill.png",
     path: "electricitybill",
   },
-  { label: "חשבון מים", icon: "src/assets/img/bill.png", path: "waterbill" },
-  { label: "ארנונה", icon: "src/assets/img/bill.png", path: "arnona" },
-  { label: "דיווח תקלות", icon: "src/assets/img/bill.png", path: "takalot" },
+  {
+    label: "חשבון מים",
+    icon: "src/assets/img/water-bill_13385395.png",
+    path: "waterbill",
+  },
+  {
+    label: "ארנונה",
+    icon: "src/assets/img/mortgage_15682337.png",
+    path: "arnona",
+  },
+  {
+    label: "דיווח תקלות",
+    icon: "src/assets/img/screwdriver_12488280.png",
+    path: "takalot",
+  },
 ];

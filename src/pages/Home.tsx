@@ -14,10 +14,8 @@ const Container = styled.div`
   background-color: gray;
   display: flex;
   flex-direction: column;
-  justify-content: center;
 
   @media (max-width: 768px) {
-    /* background-color: green; */
     flex-direction: column;
   }
 `;
