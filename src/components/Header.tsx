@@ -41,6 +41,9 @@ const TitleContainer = styled.div`
 `;
 const Title = styled.h1`
   margin-left: 50px;
+  @media (max-width: 768px) {
+    font-size: medium;
+  }
 `;
 
 export default Header;

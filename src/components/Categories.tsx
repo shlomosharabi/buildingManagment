@@ -29,11 +29,6 @@ const Container = styled.div`
   align-items: center;
   justify-content: center;
   @media (max-width: 768px) {
-    /* display: grid;
-    justify-content: center;
-    align-items: center;
-    grid-template-columns: repeat(2, 3fr);
-    gap: 20px; */
   }
 `;
 const CategoriesContainer = styled.div`

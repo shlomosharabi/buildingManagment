@@ -41,8 +41,8 @@ const CategoryContainer = styled.div`
   border-radius: 8px;
   box-sizing: border-box;
   @media (max-width: 768px) {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     background-color: rosybrown;
   }
 `;
